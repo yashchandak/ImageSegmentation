@@ -1,6 +1,8 @@
 # ImageSegmentation
 Segment images into all possible objects based on it color and texture property both
 
+<idea>
+
 Since, an image 
 may have many objects in different poses; classifiers on the image can’t be run 
 directly.  We  will  first  segment  the  image  and  extract  individual  objects.  This 
@@ -40,3 +42,8 @@ we are still working on how to combine these results together.  Suggestions
 on how we could tune or redefine the scoring metric are welcome. 
 The  individual  texture  quantization  and  color  segmentation  can  be  used  to 
 improve other building blocks and applications. 
+
+
+
+
+<This is a part of an ongoing project and the output results are not optimal yet>
