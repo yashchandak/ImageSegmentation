@@ -44,6 +44,4 @@ The  individual  texture  quantization  and  color  segmentation  can  be  used 
 improve other building blocks and applications. 
 
 
-
-
 <This is a part of an ongoing project and the output results are not optimal yet>
